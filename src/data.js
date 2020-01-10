@@ -1158,6 +1158,25 @@ const pages = [
       'Node',
     ],
   },
+  {
+    name: 'Rajeevalochan R',
+    description: 'Software Engineer, Entrepreneur, Blogger',
+    url: 'https://rajeevalochan.dev',
+    twitter: '@rajeeevalochan',
+    emoji: '🐅',
+    country: '🇮🇳',
+    computer: 'Ubuntu',
+    phone: 'android',
+    tags: [
+      'Engineer',
+      'Full Stack',
+      'Entrepreneur',
+      'Teacher',
+      'JavaScript',
+      'Node',
+      'Go'
+    ],
+  },
 ];
 
 export default pages;
